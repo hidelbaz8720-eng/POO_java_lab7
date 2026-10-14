@@ -49,19 +49,4 @@ Cet exercice porte sur la modélisation d'un système de fichiers en utilisant l
 
 
 
-## Compilation et exécution
 
-Depuis le dossier contenant `src`, exécuter les commandes suivantes :
-
-```bash
-javac -d out src/com/example/tp/*.java
-java -cp out com.example.tp.Main
-```
-
-##  Conclusion
-
-Ce TP m'a permis de renforcer ma compréhension des classes abstraites, de l'héritage et du polymorphisme en Java. Il m'a également permis de mettre en pratique la gestion d'objets de types différents dans une même structure et de mieux organiser un projet en plusieurs classes.
-
----
-
-**Projet réalisé dans le cadre de ma formation à l'École Normale Supérieure de Marrakech.**
